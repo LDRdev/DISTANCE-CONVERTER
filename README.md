@@ -1,1 +1,2 @@
-# DISTANCE-CONVERTER
+Conversor de distância - Km/Milha
+Distance Converter - Km/Mile
